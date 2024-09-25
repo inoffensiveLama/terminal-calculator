@@ -18,8 +18,4 @@ I wrote the program in C++. I used the standard input output library (iostream),
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- I would like to include a check if the operands are actually numbers in the future.
